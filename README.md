@@ -1,6 +1,13 @@
 <div align="center">
 <h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Dushyant</h1>
 <h3 align="center">A passionate Java Backend Developer</h3>
+    <h4 align="left">Daily Login </h4>
+    <a href="https://instagram.com/kya.yaar.dushyant/" target="blank"><img align="left"
+         src="https://img.shields.io/badge/-Instagram-blue"
+         alt="dushyant" height="30"/></a>
+      <a href="https://leetcode.com/daksh919/" target="blank"><img align="left"
+         src="https://img.shields.io/badge/-Leetcode-red"
+         alt="dushyant" height="30"/></a>
 </div>
 <br>
 <div>
@@ -25,29 +32,35 @@
     </p>
 </div>
 
-<h3>Backend Languages and Framework:</h3>
-<ul>
-    <li>Core Java</li>
-    <li>Spring</li>
-    <li>Spring Boot</li>
-    <li>Spring MVC</li>
-    <li>Microservices</li>
-    <li>Hibernate</li>
-    <li>Java Persistence API</li>
-</ul>
+<details>
+     <summary>Pro Skills</summary>
+      <div>
+  <samp>
+    <ul>
+       <li>Core Java</li>
+       <li>Spring</li>
+       <li>Spring Boot</li>
+       <li>Spring MVC</li>
+       <li>Hibernate</li>
+       <li>Java Persistence API</li>
+       <li>Data Structure and Algorithm</li>
+    </ul>
+  </samp>
+</div>
+</details>
+<details>
+     <summary>Skills to be unlocked</summary>
+      <div>
+  <samp>
+       <ul>
+       <li>Microservices</li>
+       <li>System Designs</li>
+       <li>Operating System</li>
+    </ul>
+  </samp>
+</div>
+</details>
 
-<h3>Database:</h3>
-<ul>
-    <li>MySQL</li>
-    <li>Oracle</li>
-</ul>
-
-<h3>Tools:</h3>
-<ul>
-    <li>Eclipse</li>
-    <li>Visual Studio</li>
-     <li>Red Hat JBoss</li>
-</ul>
 
 <img src="https://c.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif" alt="img" width="30%" align="right"/>
   
