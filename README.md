@@ -25,9 +25,29 @@
     </p>
 </div>
 
-<h3 align="left">Backend Languages:</h3>
-<p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a>   <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+<h3>Backend Languages and Framework:</h3>
+<ul>
+    <li>Core Java</li>
+    <li>Spring</li>
+    <li>Spring Boot</li>
+    <li>Spring MVC</li>
+    <li>Microservices</li>
+    <li>Hibernate</li>
+    <li>Java Persistence API</li>
+</ul>
 
+<h3>Database:</h3>
+<ul>
+    <li>MySQL</li>
+    <li>Oracle</li>
+</ul>
+
+<h3>Tools:</h3>
+<ul>
+    <li>Eclipse</li>
+    <li>Visual Studio</li>
+     <li>Red Hat JBoss</li>
+</ul>
 
 <img src="https://c.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif" alt="img" width="30%" align="right"/>
   
